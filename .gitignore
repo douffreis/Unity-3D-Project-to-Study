@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+Unity 3D Project to Study/[Ll]ibrary/
+Unity 3D Project to Study/[Tt]emp/
+Unity 3D Project to Study/[Oo]bj/
+Unity 3D Project to Study/[Bb]uild/
+Unity 3D Project to Study/[Bb]uilds/
+Unity 3D Project to Study/[Ll]ogs/
+Unity 3D Project to Study/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
